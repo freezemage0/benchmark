@@ -1,0 +1,22 @@
+{
+    "name": "freezemage/benchmark",
+    "description": "Benchmarking tool",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Freezemage",
+            "email": "freezemage0@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Freezemage\\Benchmark\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8",
+        "ext-intl": "*",
+        "ext-mbstring": "*"
+    }
+}
