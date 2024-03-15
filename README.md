@@ -1,7 +1,7 @@
 # Installation
 This package can be installed using composer:
 ```bash
-composer require freezemage0/benchmark
+composer require freezemage/benchmark
 ```
 
 # Dependencies
